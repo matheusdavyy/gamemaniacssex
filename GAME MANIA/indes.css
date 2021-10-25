@@ -1,0 +1,238 @@
+header {
+    width: auto;
+    height: auto;
+}
+
+#main2 {
+    background-image: url(imagem/fundo1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 1920px;
+    height: 1000px;
+
+}
+
+#div1 {
+    display: flex;
+    flex-flow: column;
+}
+
+#logo {
+    padding: 30px;
+    width: 18%;
+}
+
+#inn {
+    color: white;
+    padding: 80px;
+    width: 1%;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+#ctt {
+    color: white;
+    width: 1%;
+    padding: 80px;
+    font-size: 18px;
+    font-family: monospace;
+}
+
+#eqq {
+    color: white;
+    width: 47%;
+    padding: 80px;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+#car {
+    padding: 63px;
+
+}
+#gr{
+    display: flex;
+    flex-direction: row;
+}
+#jp{
+    font-size: 31px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    text-align: center;
+    margin: 220px 0px 0px 30px;
+}
+#ps{
+    margin: auto;
+    width: 80%;
+}
+#bt{
+
+    margin-top: 30px;
+    width: 30%;
+    padding: 15px 0px 15px 0px;
+    font-size: 20px;
+    margin-bottom: 250px;
+}
+#prod1{
+    background-image: url(imagem/fundo2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 990px;
+    width: 1920;
+    }
+#prod{
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+}
+
+#pc{
+    margin-left: 80px;
+
+    width: 35%;
+}
+#nt{
+    width: 40%;
+}
+#letra1{
+    color: white;
+    font-size: 60px;
+    display: flex;
+    flex-direction: row;
+}
+#dp{
+    margin-left: 195px;
+    width: 31%;
+    font-size: 20px;
+}
+#dn{
+    width: 1%;
+}
+#bp{
+    font-size: 55px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 40px;
+}
+#bn{
+    font-size: 55px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 40px;
+}
+#ba{
+    font-size: 55px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 40px;
+}
+#dn{
+    width: 35%;
+}
+#b1{
+    background-image: url(imagem/controle.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 1150px;
+}
+#cev{
+    background-color: white;
+    width: 919px;
+    height: 508px;
+    border-radius: 50px;
+    margin: 300px 0px 0px 200px;
+}
+#aj2{
+    display: flex;
+    flex-direction: row;
+}
+#fdb1{
+    font-size: 60px;
+    width: 364px;
+    height: 275px;
+    margin-top: 70px;
+    margin-left: 60px;
+}
+#aj3{
+    display: flex;
+    flex-direction: row;
+}
+#cara{
+    margin-left: 60px;
+    margin-top: 60px;
+}
+#in{
+    margin-left: 60px;
+    font-size: 25px;
+}
+#stars5{
+    margin-left: 200px;
+}
+#cev2{
+    background-color: white;
+    width: 919px;
+    height: 508px;
+    border-radius: 50px;
+    margin: 100px 0px 0px 200px;
+    margin-left: 800px;
+}
+#aj6{
+    display: flex;
+    flex-direction: row;
+}
+#fdb2{
+    font-size: 60px;
+    width: 400px;
+    height: 250px;
+    margin-left: 80px;
+    margin-top: 140px;
+}
+#moça{
+    margin-left: 70px;
+    margin-top: 80px;
+}
+#aj7{
+    display: flex;
+    flex-direction: row;
+}
+#stars4{
+    margin-left: 60px;
+    margin-bottom: 30px;
+    width: 53%;
+
+}
+#mrj{
+    font-size: 30px;
+}
+#article{
+    width: 1920px;
+    height: 2020px;
+}
+#footer{
+    background-image: url(imagem/fundo3.jpg);
+    height: 500px;
+    width: 1920px;
+}
+#ajustesf{
+    margin-right: 20px;
+    margin-top: 200px;
+    text-align: end;
+    color: white;
+    font-size: 40px;
+}
+#ajlupa{
+    background-position: center;
+}
+#lupa{
+    margin-top: 50px;
+    margin-left: 300px;
+    border-radius: 50px;
+    font-size: 30px;
+    padding-bottom: 35px;
+    padding-top: 35px;
+    padding-left: 90px;
+    padding-right: 960px;
+}
